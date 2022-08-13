@@ -10,8 +10,6 @@ iOS / iPadOS 适用的桂林理工大学健康打卡快捷指令
 # 声明
 本方式仅可实现半自动化打卡。通过本方式上报的信息由使用者完全控制，本人不收集、篡改、使用任何个人信息。
 # 许可
-MIT License
-
 Copyright (c) 2022 ORAKUSA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
